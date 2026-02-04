@@ -2,11 +2,11 @@
 
 ## 🎯 Project Summary
 
-Successfully created a **complete collection of 31 C programs** covering all NEB +2 (Grade 11 & 12) practical examination requirements. This collection serves as a comprehensive study resource for students preparing for their board exams.
+A **complete collection of 31 C programs** covering all NEB +2 (Grade 11 & 12) practical examination requirements. This collection serves as a comprehensive study resource for students preparing for their board exams.
 
 ---
 
-## ✅ What Was Created
+## ✅ What's in it Created
 
 ### 📁 File Structure
 ```
